@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/RecruitOfGoogle/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+
