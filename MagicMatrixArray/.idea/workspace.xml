@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="WordsNumberStatistics" targetName="WordsNumberStatistics" />
+      <config projectName="MagicMatrixArray" targetName="MagicMatrixArray" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb1fbf8c-ca63-417a-99a5-c123281d1266" name="Default Changelist" comment="" />
+    <list default="true" id="b13f3498-319d-4067-9d2f-4b822d18b57d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="338">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,7 +85,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="WordsNumberStatistics" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WordsNumberStatistics" TARGET_NAME="WordsNumberStatistics" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="WordsNumberStatistics" RUN_TARGET_NAME="WordsNumberStatistics">
+    <configuration name="MagicMatrixArray" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MagicMatrixArray" TARGET_NAME="MagicMatrixArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MagicMatrixArray" RUN_TARGET_NAME="MagicMatrixArray">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -93,17 +96,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eb1fbf8c-ca63-417a-99a5-c123281d1266" name="Default Changelist" comment="" />
-      <created>1554795181606</created>
+      <changelist id="b13f3498-319d-4067-9d2f-4b822d18b57d" name="Default Changelist" comment="" />
+      <created>1554800051708</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554795181606</updated>
-      <workItem from="1554795184993" duration="2470000" />
+      <updated>1554800051708</updated>
+      <workItem from="1554800053604" duration="6233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2470000" />
+    <option name="totallyTimeSpent" value="6233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -140,8 +143,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="338">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
