@@ -1,0 +1,3 @@
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\LeetCode232RealizeQueueByStack.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\LeetCode232RealizeQueueByStack.dir/objects.a @CMakeFiles\LeetCode232RealizeQueueByStack.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\LeetCode232RealizeQueueByStack.dir/objects.a -Wl,--no-whole-archive  -o LeetCode232RealizeQueueByStack.exe -Wl,--out-implib,libLeetCode232RealizeQueueByStack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LeetCode232RealizeQueueByStack.dir\linklibs.rsp
