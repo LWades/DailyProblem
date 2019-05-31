@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="LeetCode503NextBiggerElement2" targetName="LeetCode503NextBiggerElement2" />
+      <config projectName="LeetCode155MinStack" targetName="LeetCode155MinStack" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0e9c9b1-111a-44dd-94a8-297248388ec5" name="Default Changelist" comment="" />
+    <list default="true" id="0674c19b-6ee8-46e6-8519-aa15adbfd611" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="317">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
             </state>
           </provider>
         </entry>
@@ -60,8 +60,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="LeetCode503NextBiggerElement2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeetCode503NextBiggerElement2" TARGET_NAME="LeetCode503NextBiggerElement2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeetCode503NextBiggerElement2" RUN_TARGET_NAME="LeetCode503NextBiggerElement2">
+    <configuration name="LeetCode155MinStack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeetCode155MinStack" TARGET_NAME="LeetCode155MinStack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeetCode155MinStack" RUN_TARGET_NAME="LeetCode155MinStack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -93,17 +93,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0e9c9b1-111a-44dd-94a8-297248388ec5" name="Default Changelist" comment="" />
-      <created>1558874576264</created>
+      <changelist id="0674c19b-6ee8-46e6-8519-aa15adbfd611" name="Default Changelist" comment="" />
+      <created>1559297611198</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558874576264</updated>
-      <workItem from="1558874592719" duration="5987000" />
+      <updated>1559297611198</updated>
+      <workItem from="1559297618690" duration="5513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5987000" />
+    <option name="totallyTimeSpent" value="5513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -134,14 +134,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>70</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="317">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>
