@@ -28,32 +28,32 @@ The CXX compiler identification is GNU, found in "F:/Software/JetBrains/CLion 20
 Determining if the C compiler works passed with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_61bf2/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_61bf2.dir\build.make CMakeFiles/cmTC_61bf2.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_ab3ca/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_ab3ca.dir\build.make CMakeFiles/cmTC_ab3ca.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_61bf2.dir/testCCompiler.c.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"    -o CMakeFiles\cmTC_61bf2.dir\testCCompiler.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
-Linking C executable cmTC_61bf2.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_61bf2.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_61bf2.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_61bf2.dir/objects.a @CMakeFiles\cmTC_61bf2.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_61bf2.dir/objects.a -Wl,--no-whole-archive  -o cmTC_61bf2.exe -Wl,--out-implib,libcmTC_61bf2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_61bf2.dir\linklibs.rsp
+Building C object CMakeFiles/cmTC_ab3ca.dir/testCCompiler.c.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"    -o CMakeFiles\cmTC_ab3ca.dir\testCCompiler.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_ab3ca.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ab3ca.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ab3ca.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_ab3ca.dir/objects.a @CMakeFiles\cmTC_ab3ca.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_ab3ca.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ab3ca.exe -Wl,--out-implib,libcmTC_ab3ca.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_ab3ca.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_9d667/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_9d667.dir\build.make CMakeFiles/cmTC_9d667.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_a33bc/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_a33bc.dir\build.make CMakeFiles/cmTC_a33bc.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9d667.dir/CMakeCCompilerABI.c.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"    -o CMakeFiles\cmTC_9d667.dir\CMakeCCompilerABI.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
-Linking C executable cmTC_9d667.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_9d667.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_9d667.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_9d667.dir/objects.a @CMakeFiles\cmTC_9d667.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_9d667.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9d667.exe -Wl,--out-implib,libcmTC_9d667.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Building C object CMakeFiles/cmTC_a33bc.dir/CMakeCCompilerABI.c.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"    -o CMakeFiles\cmTC_a33bc.dir\CMakeCCompilerABI.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+Linking C executable cmTC_a33bc.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_a33bc.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_a33bc.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_a33bc.dir/objects.a @CMakeFiles\cmTC_a33bc.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_a33bc.dir/objects.a -Wl,--no-whole-archive  -o cmTC_a33bc.exe -Wl,--out-implib,libcmTC_a33bc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe
 COLLECT_LTO_WRAPPER=F:/Software/JetBrains/CLion\ 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe
@@ -63,9 +63,9 @@ Thread model: posix
 gcc version 8.1.0 (x86_64-posix-sjlj-rev0, Built by MinGW-W64 project) 
 COMPILER_PATH=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d667.exe' '-mtune=core2' '-march=nocona'
- F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\ccdAZgE8.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_9d667.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_9d667.dir/objects.a --no-whole-archive --out-implib libcmTC_9d667.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d667.exe' '-mtune=core2' '-march=nocona'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a33bc.exe' '-mtune=core2' '-march=nocona'
+ F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\ccUvvCSI.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_a33bc.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_a33bc.dir/objects.a --no-whole-archive --out-implib libcmTC_a33bc.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a33bc.exe' '-mtune=core2' '-march=nocona'
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -73,16 +73,16 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_9d667/fast"]
-  ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_9d667.dir\build.make CMakeFiles/cmTC_9d667.dir/build]
+  ignore line: [Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_a33bc/fast"]
+  ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_a33bc.dir\build.make CMakeFiles/cmTC_a33bc.dir/build]
   ignore line: [mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_9d667.dir/CMakeCCompilerABI.c.obj]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"    -o CMakeFiles\cmTC_9d667.dir\CMakeCCompilerABI.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCCompilerABI.c"]
-  ignore line: [Linking C executable cmTC_9d667.exe]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_9d667.dir\link.txt --verbose=1]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_9d667.dir/objects.a]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_9d667.dir/objects.a @CMakeFiles\cmTC_9d667.dir\objects1.rsp]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_9d667.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9d667.exe -Wl,--out-implib,libcmTC_9d667.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Building C object CMakeFiles/cmTC_a33bc.dir/CMakeCCompilerABI.c.obj]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"    -o CMakeFiles\cmTC_a33bc.dir\CMakeCCompilerABI.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTC_a33bc.exe]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_a33bc.dir\link.txt --verbose=1]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_a33bc.dir/objects.a]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_a33bc.dir/objects.a @CMakeFiles\cmTC_a33bc.dir\objects1.rsp]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_a33bc.dir/objects.a -Wl,--no-whole-archive  -o cmTC_a33bc.exe -Wl,--out-implib,libcmTC_a33bc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=F:/Software/JetBrains/CLion\ 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe]
@@ -99,9 +99,9 @@ Parsed C implicit link information from above output:
   ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/]
   ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d667.exe' '-mtune=core2' '-march=nocona']
-  ignore line: [ F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\ccdAZgE8.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_9d667.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_9d667.dir/objects.a --no-whole-archive --out-implib libcmTC_9d667.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d667.exe' '-mtune=core2' '-march=nocona']
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a33bc.exe' '-mtune=core2' '-march=nocona']
+  ignore line: [ F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\ccUvvCSI.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_a33bc.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_a33bc.dir/objects.a --no-whole-archive --out-implib libcmTC_a33bc.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a33bc.exe' '-mtune=core2' '-march=nocona']
   ignore line: [mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp']
   ignore line: []
   implicit libs: []
@@ -114,16 +114,16 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_5444e/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_5444e.dir\build.make CMakeFiles/cmTC_5444e.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_f33c2/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_f33c2.dir\build.make CMakeFiles/cmTC_f33c2.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5444e.dir/feature_tests.c.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"   -std=c11 -o CMakeFiles\cmTC_5444e.dir\feature_tests.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.c"
-Linking C executable cmTC_5444e.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_5444e.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_5444e.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_5444e.dir/objects.a @CMakeFiles\cmTC_5444e.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_5444e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_5444e.exe -Wl,--out-implib,libcmTC_5444e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_5444e.dir\linklibs.rsp
+Building C object CMakeFiles/cmTC_f33c2.dir/feature_tests.c.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"   -std=c11 -o CMakeFiles\cmTC_f33c2.dir\feature_tests.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_f33c2.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_f33c2.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_f33c2.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_f33c2.dir/objects.a @CMakeFiles\cmTC_f33c2.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_f33c2.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f33c2.exe -Wl,--out-implib,libcmTC_f33c2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f33c2.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -136,16 +136,16 @@ mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLi
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_5b4e5/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_5b4e5.dir\build.make CMakeFiles/cmTC_5b4e5.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_d53c9/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d53c9.dir\build.make CMakeFiles/cmTC_d53c9.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5b4e5.dir/feature_tests.c.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"   -std=c99 -o CMakeFiles\cmTC_5b4e5.dir\feature_tests.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.c"
-Linking C executable cmTC_5b4e5.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_5b4e5.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_5b4e5.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_5b4e5.dir/objects.a @CMakeFiles\cmTC_5b4e5.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_5b4e5.dir/objects.a -Wl,--no-whole-archive  -o cmTC_5b4e5.exe -Wl,--out-implib,libcmTC_5b4e5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_5b4e5.dir\linklibs.rsp
+Building C object CMakeFiles/cmTC_d53c9.dir/feature_tests.c.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"   -std=c99 -o CMakeFiles\cmTC_d53c9.dir\feature_tests.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_d53c9.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d53c9.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d53c9.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_d53c9.dir/objects.a @CMakeFiles\cmTC_d53c9.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_d53c9.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d53c9.exe -Wl,--out-implib,libcmTC_d53c9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d53c9.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -158,16 +158,16 @@ mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLi
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_90336/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_90336.dir\build.make CMakeFiles/cmTC_90336.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_e9068/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e9068.dir\build.make CMakeFiles/cmTC_e9068.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_90336.dir/feature_tests.c.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"   -std=c90 -o CMakeFiles\cmTC_90336.dir\feature_tests.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.c"
-Linking C executable cmTC_90336.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_90336.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_90336.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_90336.dir/objects.a @CMakeFiles\cmTC_90336.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_90336.dir/objects.a -Wl,--no-whole-archive  -o cmTC_90336.exe -Wl,--out-implib,libcmTC_90336.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_90336.dir\linklibs.rsp
+Building C object CMakeFiles/cmTC_e9068.dir/feature_tests.c.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"   -std=c90 -o CMakeFiles\cmTC_e9068.dir\feature_tests.c.obj   -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_e9068.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e9068.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_e9068.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_e9068.dir/objects.a @CMakeFiles\cmTC_e9068.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_e9068.dir/objects.a -Wl,--no-whole-archive  -o cmTC_e9068.exe -Wl,--out-implib,libcmTC_e9068.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_e9068.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -178,32 +178,32 @@ mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLi
 Determining if the CXX compiler works passed with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_bbdaf/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_bbdaf.dir\build.make CMakeFiles/cmTC_bbdaf.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_d9530/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d9530.dir\build.make CMakeFiles/cmTC_d9530.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_bbdaf.dir/testCXXCompiler.cxx.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -o CMakeFiles\cmTC_bbdaf.dir\testCXXCompiler.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
-Linking CXX executable cmTC_bbdaf.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_bbdaf.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_bbdaf.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_bbdaf.dir/objects.a @CMakeFiles\cmTC_bbdaf.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_bbdaf.dir/objects.a -Wl,--no-whole-archive  -o cmTC_bbdaf.exe -Wl,--out-implib,libcmTC_bbdaf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_bbdaf.dir\linklibs.rsp
+Building CXX object CMakeFiles/cmTC_d9530.dir/testCXXCompiler.cxx.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -o CMakeFiles\cmTC_d9530.dir\testCXXCompiler.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+Linking CXX executable cmTC_d9530.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d9530.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d9530.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_d9530.dir/objects.a @CMakeFiles\cmTC_d9530.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_d9530.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d9530.exe -Wl,--out-implib,libcmTC_d9530.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d9530.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_ab102/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_ab102.dir\build.make CMakeFiles/cmTC_ab102.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_c9e86/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c9e86.dir\build.make CMakeFiles/cmTC_c9e86.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ab102.dir/CMakeCXXCompilerABI.cpp.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -o CMakeFiles\cmTC_ab102.dir\CMakeCXXCompilerABI.cpp.obj -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"
-Linking CXX executable cmTC_ab102.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ab102.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ab102.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_ab102.dir/objects.a @CMakeFiles\cmTC_ab102.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_ab102.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ab102.exe -Wl,--out-implib,libcmTC_ab102.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Building CXX object CMakeFiles/cmTC_c9e86.dir/CMakeCXXCompilerABI.cpp.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -o CMakeFiles\cmTC_c9e86.dir\CMakeCXXCompilerABI.cpp.obj -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTC_c9e86.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c9e86.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c9e86.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_c9e86.dir/objects.a @CMakeFiles\cmTC_c9e86.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_c9e86.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c9e86.exe -Wl,--out-implib,libcmTC_c9e86.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe
 COLLECT_LTO_WRAPPER=F:/Software/JetBrains/CLion\ 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe
@@ -213,9 +213,9 @@ Thread model: posix
 gcc version 8.1.0 (x86_64-posix-sjlj-rev0, Built by MinGW-W64 project) 
 COMPILER_PATH=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/;F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ab102.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
- F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\ccPAEkyP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_ab102.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_ab102.dir/objects.a --no-whole-archive --out-implib libcmTC_ab102.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ab102.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c9e86.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
+ F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\cc8MFKhf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_c9e86.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_c9e86.dir/objects.a --no-whole-archive --out-implib libcmTC_c9e86.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c9e86.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona'
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -223,16 +223,16 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_ab102/fast"]
-  ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_ab102.dir\build.make CMakeFiles/cmTC_ab102.dir/build]
+  ignore line: [Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_c9e86/fast"]
+  ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c9e86.dir\build.make CMakeFiles/cmTC_c9e86.dir/build]
   ignore line: [mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_ab102.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -o CMakeFiles\cmTC_ab102.dir\CMakeCXXCompilerABI.cpp.obj -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"]
-  ignore line: [Linking CXX executable cmTC_ab102.exe]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ab102.dir\link.txt --verbose=1]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ab102.dir/objects.a]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_ab102.dir/objects.a @CMakeFiles\cmTC_ab102.dir\objects1.rsp]
-  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_ab102.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ab102.exe -Wl,--out-implib,libcmTC_ab102.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Building CXX object CMakeFiles/cmTC_c9e86.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -o CMakeFiles\cmTC_c9e86.dir\CMakeCXXCompilerABI.cpp.obj -c "F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTC_c9e86.exe]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c9e86.dir\link.txt --verbose=1]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c9e86.dir/objects.a]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_c9e86.dir/objects.a @CMakeFiles\cmTC_c9e86.dir\objects1.rsp]
+  ignore line: ["F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"     -v -Wl,--whole-archive CMakeFiles\cmTC_c9e86.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c9e86.exe -Wl,--out-implib,libcmTC_c9e86.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=F:/Software/JetBrains/CLion\ 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe]
@@ -249,9 +249,9 @@ Parsed CXX implicit link information from above output:
   ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/]
   ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ab102.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
-  ignore line: [ F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\ccPAEkyP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_ab102.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_ab102.dir/objects.a --no-whole-archive --out-implib libcmTC_ab102.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ab102.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c9e86.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
+  ignore line: [ F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe -plugin F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll -plugin-opt=F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LWADE\AppData\Local\Temp\cc8MFKhf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-sjlj-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_c9e86.exe F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0 -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib -LF:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.. --whole-archive CMakeFiles\cmTC_c9e86.dir/objects.a --no-whole-archive --out-implib libcmTC_c9e86.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c9e86.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona']
   ignore line: [mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp']
   ignore line: []
   implicit libs: []
@@ -264,16 +264,16 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++2a] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_06016/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_06016.dir\build.make CMakeFiles/cmTC_06016.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_abb38/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_abb38.dir\build.make CMakeFiles/cmTC_abb38.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_06016.dir/feature_tests.cxx.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++2a -o CMakeFiles\cmTC_06016.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_06016.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_06016.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_06016.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_06016.dir/objects.a @CMakeFiles\cmTC_06016.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_06016.dir/objects.a -Wl,--no-whole-archive  -o cmTC_06016.exe -Wl,--out-implib,libcmTC_06016.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_06016.dir\linklibs.rsp
+Building CXX object CMakeFiles/cmTC_abb38.dir/feature_tests.cxx.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++2a -o CMakeFiles\cmTC_abb38.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_abb38.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_abb38.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_abb38.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_abb38.dir/objects.a @CMakeFiles\cmTC_abb38.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_abb38.dir/objects.a -Wl,--no-whole-archive  -o cmTC_abb38.exe -Wl,--out-implib,libcmTC_abb38.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_abb38.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -339,16 +339,16 @@ mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLi
 Detecting CXX [-std=c++17] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_44e5b/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_44e5b.dir\build.make CMakeFiles/cmTC_44e5b.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_9d649/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_9d649.dir\build.make CMakeFiles/cmTC_9d649.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_44e5b.dir/feature_tests.cxx.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++17 -o CMakeFiles\cmTC_44e5b.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_44e5b.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_44e5b.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_44e5b.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_44e5b.dir/objects.a @CMakeFiles\cmTC_44e5b.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_44e5b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_44e5b.exe -Wl,--out-implib,libcmTC_44e5b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_44e5b.dir\linklibs.rsp
+Building CXX object CMakeFiles/cmTC_9d649.dir/feature_tests.cxx.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++17 -o CMakeFiles\cmTC_9d649.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_9d649.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_9d649.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_9d649.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_9d649.dir/objects.a @CMakeFiles\cmTC_9d649.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_9d649.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9d649.exe -Wl,--out-implib,libcmTC_9d649.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_9d649.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -414,16 +414,16 @@ mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLi
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_2616e/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_2616e.dir\build.make CMakeFiles/cmTC_2616e.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_33adc/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_33adc.dir\build.make CMakeFiles/cmTC_33adc.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_2616e.dir/feature_tests.cxx.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++14 -o CMakeFiles\cmTC_2616e.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_2616e.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_2616e.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_2616e.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_2616e.dir/objects.a @CMakeFiles\cmTC_2616e.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_2616e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_2616e.exe -Wl,--out-implib,libcmTC_2616e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_2616e.dir\linklibs.rsp
+Building CXX object CMakeFiles/cmTC_33adc.dir/feature_tests.cxx.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++14 -o CMakeFiles\cmTC_33adc.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_33adc.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_33adc.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_33adc.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_33adc.dir/objects.a @CMakeFiles\cmTC_33adc.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_33adc.dir/objects.a -Wl,--no-whole-archive  -o cmTC_33adc.exe -Wl,--out-implib,libcmTC_33adc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_33adc.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -489,16 +489,16 @@ mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLi
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_21c4a/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_21c4a.dir\build.make CMakeFiles/cmTC_21c4a.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_e9cf9/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e9cf9.dir\build.make CMakeFiles/cmTC_e9cf9.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_21c4a.dir/feature_tests.cxx.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++11 -o CMakeFiles\cmTC_21c4a.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_21c4a.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_21c4a.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_21c4a.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_21c4a.dir/objects.a @CMakeFiles\cmTC_21c4a.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_21c4a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_21c4a.exe -Wl,--out-implib,libcmTC_21c4a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_21c4a.dir\linklibs.rsp
+Building CXX object CMakeFiles/cmTC_e9cf9.dir/feature_tests.cxx.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++11 -o CMakeFiles\cmTC_e9cf9.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_e9cf9.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e9cf9.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_e9cf9.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_e9cf9.dir/objects.a @CMakeFiles\cmTC_e9cf9.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_e9cf9.dir/objects.a -Wl,--no-whole-archive  -o cmTC_e9cf9.exe -Wl,--out-implib,libcmTC_e9cf9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_e9cf9.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
@@ -564,16 +564,16 @@ mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLi
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_330b0/fast"
-F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_330b0.dir\build.make CMakeFiles/cmTC_330b0.dir/build
+Run Build Command:"F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe" "cmTC_b5740/fast"
+F:/Software/JetBrains/CLion 2018.3.4/MinGW/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_b5740.dir\build.make CMakeFiles/cmTC_b5740.dir/build
 mingw32-make.exe[1]: Entering directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_330b0.dir/feature_tests.cxx.obj
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++98 -o CMakeFiles\cmTC_330b0.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_330b0.exe
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_330b0.dir\link.txt --verbose=1
-"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_330b0.dir/objects.a
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_330b0.dir/objects.a @CMakeFiles\cmTC_330b0.dir\objects1.rsp
-"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_330b0.dir/objects.a -Wl,--no-whole-archive  -o cmTC_330b0.exe -Wl,--out-implib,libcmTC_330b0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_330b0.dir\linklibs.rsp
+Building CXX object CMakeFiles/cmTC_b5740.dir/feature_tests.cxx.obj
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"    -std=c++98 -o CMakeFiles\cmTC_b5740.dir\feature_tests.cxx.obj -c "F:\Software\JetBrains\CLion 2018.3.4\CLionProjects\DailyProblem\LeetCode122BestChanceToBuyStock\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_b5740.exe
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_b5740.dir\link.txt --verbose=1
+"F:\Software\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_b5740.dir/objects.a
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_b5740.dir/objects.a @CMakeFiles\cmTC_b5740.dir\objects1.rsp
+"F:\Software\JetBrains\CLion 2018.3.4\MinGW\mingw64\bin\g++.exe"      -Wl,--whole-archive CMakeFiles\cmTC_b5740.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b5740.exe -Wl,--out-implib,libcmTC_b5740.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b5740.dir\linklibs.rsp
 mingw32-make.exe[1]: Leaving directory 'F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/LeetCode122BestChanceToBuyStock/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 

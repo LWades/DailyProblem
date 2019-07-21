@@ -2,34 +2,48 @@
 #include <vector>
 using namespace std;
 
-int BestChanceToBuyStock(vector<int> v)
+int MaxProfit(vector<int> input)
 {
-    int min = v[0];
-    int maxSub = 0;
+    int res = 0;
+    int minNow = input[0];
+    int profit = 0;
 
-    for (int i = 1; i < v.size(); i++)
+    cout << "Current res: " << res << endl;
+
+    for (int i = 1; i < input.size(); i++)
     {
-        if (v[i] < min)
-            min = v[i];
+        if (input[i] - minNow > res)
+        {
+            res = input[i] - minNow;
+            cout << i << ": Current res: " << res << endl;
+        }
         else
         {
-            int sub = v[i] - min;
+            profit += res;
+            cout << i << ": Profit: " << profit << endl;
+            minNow = input[i];
+            res = 0;
+            cout << i << ": MinNow change to " << minNow << endl;
+        }
 
-            if (sub > maxSub)
-                maxSub = sub;
+        if (i == input.size()-1)
+        {
+            profit += (input[i] - minNow > res ? input[i] - minNow : res);
+            cout << i << ": Profit: " << profit << endl;
         }
     }
 
-    return maxSub;
+    return profit;
 }
 
-int main() {
-    vector<int> v1 = {7, 1, 5, 3, 6, 4};
-    vector<int> v2 = {7, 6, 4, 3, 1};
 
-    cout << BestChanceToBuyStock(v1) << endl;
-    cout << BestChanceToBuyStock(v2) << endl << "End" << endl;
+int main() {
+    vector<int> input1 = {7,1,5,3,6,4};
+    vector<int> input2 = {1,2,3,4,5};
+    vector<int> input3 = {7,6,4,3,1};
+
+    cout << MaxProfit(input1) << endl << MaxProfit(input2) << endl << MaxProfit(input3) << endl;
 
     return 0;
 }
-//关键在于搞清问题本质
+//答案是转化问题的是算法，更优
