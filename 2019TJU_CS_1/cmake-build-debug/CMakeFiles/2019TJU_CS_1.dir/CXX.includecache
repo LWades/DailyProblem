@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Software/JetBrains/CLion 2018.3.4/CLionProjects/DailyProblem/2019TJU_CS_1/main.cpp
+iostream
+-
+
